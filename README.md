@@ -7,8 +7,8 @@
 1. Склонируйте репозиторий и перейдите в директорию проекта:
 
    ```bash
-   git clone <URL вашего репозитория>
-   cd <папка проекта>
+   git clone https://github.com/gremwiz1/user-service.git
+   cd user-service
 
 2. Установите зависимости:
 
